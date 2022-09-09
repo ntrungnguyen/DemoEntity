@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "481d1d13-20d4-44b8-a968-c8f4e4b98b7b": {
+      "ProjectGuid": "481d1d13-20d4-44b8-a968-c8f4e4b98b7b",
+      "DisplayName": "DemoEntity",
+      "ColorIndex": 0
+    },
+    "7ad019bd-407e-4f5c-bf3d-c84aba4595eb": {
+      "ProjectGuid": "7ad019bd-407e-4f5c-bf3d-c84aba4595eb",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

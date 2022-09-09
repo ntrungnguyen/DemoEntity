@@ -1,0 +1,24 @@
+D:\MinhQuanSoft\DemoEntity\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\MinhQuanSoft\DemoEntity\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\MinhQuanSoft\DemoEntity\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\MinhQuanSoft\DemoEntity\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\MinhQuanSoft\DemoEntity\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\MinhQuanSoft\DemoEntity\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\MinhQuanSoft\DemoEntity\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\MinhQuanSoft\DemoEntity\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\MinhQuanSoft\DemoEntity\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\MinhQuanSoft\DemoEntity\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\MinhQuanSoft\DemoEntity\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\MinhQuanSoft\DemoEntity\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\nguye\OneDrive\Máy tính\demo\DemoEntity\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\nguye\OneDrive\Máy tính\demo\DemoEntity\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\nguye\OneDrive\Máy tính\demo\DemoEntity\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\nguye\OneDrive\Máy tính\demo\DemoEntity\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\nguye\OneDrive\Máy tính\demo\DemoEntity\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\OneDrive\Máy tính\demo\DemoEntity\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\nguye\OneDrive\Máy tính\demo\DemoEntity\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\OneDrive\Máy tính\demo\DemoEntity\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\demo\DemoEntity\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\demo\DemoEntity\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\demo\DemoEntity\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\nguye\OneDrive\Máy tính\demo\DemoEntity\BusinessLayer\obj\Debug\BusinessLayer.pdb
